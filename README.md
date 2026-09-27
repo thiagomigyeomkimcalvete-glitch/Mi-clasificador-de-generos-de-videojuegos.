@@ -1,7 +1,7 @@
 # Mi-clasificador-de-generos-de-videojuegos."
 Si lo que quieres es hacer un bot de Discord que detecte géneros de videojuegos y te diga su probabilidad de reconocimiento haz esto.
 
-Habre Google Teachable machine, haz 5es clases de géneros de videojuegos, a cada clase dale 6 imágenes que no sean ni ".web" ni ".avif",
+Habre Google Teachable machine, haz 5 clases de géneros de videojuegos, a cada clase dale 6 imágenes que no sean ni ".web" ni ".avif",
 aprieta en Train Model y luego exporta el modelo en la sección de python con Tensor Flow y en archivos te aparecerá una carpeta llamada converted_keras.zip
 
 Si te fijas hay 2 códigos, un archivo ".ipynb" y otro archivo ".py", cada archivo tiene una funcionalidad diferente.
@@ -15,6 +15,7 @@ archivo.
 
 Por último, tienes que probar todo en tu propio servidor de bots de Discord usando el comando $checky subiendo la imagen de el género de 
 videojuegos que vos quieras.
+
 Te tiene que aparecer esto:
 <img width="820" height="445" alt="image" src="https://github.com/user-attachments/assets/ba886ec1-ce2b-4e88-8708-6012d8ad1caf" />
 
