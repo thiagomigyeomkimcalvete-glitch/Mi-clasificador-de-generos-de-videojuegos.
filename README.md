@@ -19,3 +19,7 @@ videojuegos que vos quieras.
 Te tiene que aparecer esto:
 <img width="820" height="445" alt="image" src="https://github.com/user-attachments/assets/ba886ec1-ce2b-4e88-8708-6012d8ad1caf" />
 
+## Licencia
+Este proyecto está bajo la Licencia MIT; consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
+
+
